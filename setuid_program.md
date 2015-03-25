@@ -1,5 +1,9 @@
 ##SET-UID程序漏洞实验
 
+----
+
+在线实验环境：[SET-UID程序漏洞实验](http://www.shiyanlou.com/courses/227)
+
 ###一、实验描述
 
 Set-UID 是Unix系统中的一个重要的安全机制。当一个Set-UID程序运行的时候，它被假设为具有拥有者的权限。例如，如果程序的拥有者是root，那么任何人运行这个程序时都会获得程序拥有者的权限。Set-UID允许我们做许多很有趣的事情，但是不幸的是，它也是很多坏事情的罪魁祸首。
@@ -239,6 +243,10 @@ void main()
 
 附[Syracuse SEED labs](http://www.cis.syr.edu/~wedu/seed/)版权声明：
 
-> Copyright Statement Copyright 2006 – 2009 Wenliang Du, Syracuse University. The development of this document is funded by the National Science Foundation’s Course, Curriculum, and Laboratory Improvement (CCLI) program under Award No. 0618680 and 0231122. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation. A copy of the license can befound at http://www.gnu.org/licenses/fdl.html.
+> Copyright © 2014 Wenliang Du, Syracuse University.
+The development of this document is/was funded by the following grants from the US National Science Foundation:
+No. 1303306 and 1318814. Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the
+Free Software Foundation. A copy of the license can be found at http://www.gnu.org/licenses/fdl.html.
 
 
