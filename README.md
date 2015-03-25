@@ -2,7 +2,7 @@
 
 ## License
 
-本课程所涉及的实验来自[Syracuse SEED labs](http://www.cis.syr.edu/~wedu/seed/)，并在此基础上进行修改发布，修改后的实验文档仍然遵循原版GNU Free Documentation License。
+本课程所涉及的实验来自[Syracuse SEED labs](http://www.cis.syr.edu/~wedu/seed/)，并在此基础上为适配[实验楼](http://www.shiyanlou.com)网站环境进行修改，修改后的实验文档仍然遵循GNU Free Documentation License。
 
 附[Syracuse SEED labs](http://www.cis.syr.edu/~wedu/seed/)版权描述内容：
 
