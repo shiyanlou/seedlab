@@ -1,8 +1,12 @@
 ##ShellShock 攻击实验
-***
+
+----
+
+在线实验环境：[ShellShock 攻击实验](http://www.shiyanlou.com/courses/230)
 
 
 ### 一、 实验描述
+
 2014年9月24日，Bash中发现了一个严重漏洞shellshock，该漏洞可用于许多系统，并且既可以远程也可以在本地触发。在本实验中，学生需要亲手重现攻击来理解该漏洞，并回答一些问题。
 
 ###二、 预备知识
@@ -227,5 +231,9 @@ for (string_index = 0; string = env[string_index++]; ) {
 
 附[Syracuse SEED labs](http://www.cis.syr.edu/~wedu/seed/)版权声明：
 
-> Copyright Statement Copyright 2006 – 2009 Wenliang Du, Syracuse University. The development of this document is funded by the National Science Foundation’s Course, Curriculum, and Laboratory Improvement (CCLI) program under Award No. 0618680 and 0231122. Permission is granted to copy, distribute and/or modify this document under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the Free Software Foundation. A copy of the license can befound at http://www.gnu.org/licenses/fdl.html.
+> Copyright © 2014 Wenliang Du, Syracuse University.
+The development of this document is/was funded by the following grants from the US National Science Foundation:
+No. 1303306 and 1318814. Permission is granted to copy, distribute and/or modify this document
+under the terms of the GNU Free Documentation License, Version 1.2 or any later version published by the
+Free Software Foundation. A copy of the license can be found at http://www.gnu.org/licenses/fdl.html.
 
