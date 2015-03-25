@@ -2,7 +2,7 @@
 
 ----
 
-在线实验链接：[缓冲区溢出漏洞实验](http://www.shiyanlou.com/courses/231)
+在线实验环境：[缓冲区溢出漏洞实验](http://www.shiyanlou.com/courses/231)
 
 ###一、实验描述
 
